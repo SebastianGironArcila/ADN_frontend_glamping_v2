@@ -27,7 +27,7 @@ pipeline {
                     submoduleCfg: [], 
                     userRemoteConfigs: [[
                         credentialsId: 'GitHub_SebastianGironArcila',
-						url:'https://github.com/SebastianGironArcila/ADN_backend_glamping'
+						url:'https://github.com/SebastianGironArcila/ADN_frontend_glamping_v2'
                     ]]
                 ])
             }
